@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/fqnews/bnews/master/64photo/fqnews-qr.jpg)
 
 <div id="tt">
-<h3>24小时热点禁闻|<a href="#%E4%B8%AD%E5%85%B1%E7%A6%81%E9%97%BB%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">中共禁闻</a>|<a href="#%E5%9B%BE%E7%89%87%E6%96%B0%E9%97%BB%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">头条禁闻</a>|<a href="#%E6%96%B0%E9%97%BB%E8%AF%84%E8%AE%BA%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">禁闻评论|<a href="#%E5%BF%85%E7%9C%8B%E7%BB%8F%E5%85%B8%E5%A5%BD%E6%96%87">经典必看</a>|<a href="https://gitlab.com/zh99/dong/-/blob/master/README.md">经典影视</h3>
+<h3>24小时热点禁闻|<a href="#%E4%B8%AD%E5%85%B1%E7%A6%81%E9%97%BB%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">中共禁闻</a>|<a href="#%E5%9B%BE%E7%89%87%E6%96%B0%E9%97%BB%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">头条禁闻</a>|<a href="#%E6%96%B0%E9%97%BB%E8%AF%84%E8%AE%BA%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">禁闻评论|<a href="#%E5%BF%85%E7%9C%8B%E7%BB%8F%E5%85%B8%E5%A5%BD%E6%96%87">经典必看</a>|<a href="https://gitlab.com/zh99/dong/-/blob/master/README.md">经典影视|<a href="https://github.com/lpfeaf3001/www/blob/master/README.md#dt2121">翻墙工具下载</h3>
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
