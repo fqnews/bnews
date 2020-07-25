@@ -4,7 +4,7 @@
 <h3>24小时热点禁闻|<a href="#%E4%B8%AD%E5%85%B1%E7%A6%81%E9%97%BB%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">中共禁闻</a>|<a href="#%E5%9B%BE%E7%89%87%E6%96%B0%E9%97%BB%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">头条禁闻</a>|<a href="#%E6%96%B0%E9%97%BB%E8%AF%84%E8%AE%BA%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">禁闻评论|<a href="#%E5%BF%85%E7%9C%8B%E7%BB%8F%E5%85%B8%E5%A5%BD%E6%96%87">经典必看</a>|<a href="https://gitlab.com/zh99/dong/-/blob/master/README.md">经典影视|<a href="https://github.com/lpfeaf3001/www/blob/master/README.md#dt2121">翻墙工具|<a href="https://flowe77.herokuapp.com/">电视直播</h3>
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。</div>
 <ul>
-<li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
+<li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，短网址: https://x.co/zhen</b></li>
 <li><a href="/cnnews/20200724/1365451.md">军装照流出！藏在旧金山领事馆的中共女军医长这样...</a></li>
 <li><a href="/topimagenews/20200723/1365348.md">习近平不去灾区跑这干嘛？ 惊爆中共拍美国政商性录像 三峡8孔泄洪 再创今年新高</a></li>
 <li><a href="/cnnews/20200724/1365394.md">传习李之争涉接班人问题 陈敏尔已出局</a></li>
